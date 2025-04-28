@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false
+    }
+}
